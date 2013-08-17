@@ -1,0 +1,4 @@
+50c50
+< void *wifi_get_country_code(char *ccode);
+---
+> //void *wifi_get_country_code(char *ccode);
